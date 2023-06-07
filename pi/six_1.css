@@ -1,0 +1,35 @@
+a {
+  font-size: 2em;
+  color: #ffff6f;
+}
+
+#left {
+  float: left;
+  height: 800px;
+  background: #ff8adc;
+  width: 25%;
+}
+
+#right {
+  float: right;
+  width: 25%;
+  height: 800px;
+  background: #de7dff;
+}
+
+#center {
+  float: right;
+  width: 50%;
+  height: 800px;
+  background: #90ffe5;
+}
+
+.mido {
+  height: 800px;
+}
+
+#foot {
+  text-align: center;
+  padding: 30px;
+  background-color: #e5e9a9;
+}
